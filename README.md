@@ -80,5 +80,3 @@ Different constants generate **completely different shapes**.
 | `ESC` | Exit program |
 
 ---
-
-# 🏗️ Project Structure
